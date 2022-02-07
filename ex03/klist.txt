@@ -1,0 +1,5 @@
+Credentials cache: API:30459218-DF91-486F-942D-4D4DA6541738
+        Principal: bgencer@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb  7 17:27:46 2022  Feb  8 03:27:41 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
